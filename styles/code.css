@@ -4,3 +4,20 @@
   font-weight: <weight>;
   font-style: normal;
 }
+.nav-items{
+  display: flex;
+  align-items: center;
+  width: 1140px;
+  margin: 0, auto;
+  
+}
+.list{
+  text-decoration: none;
+  display: flex;
+
+}
+.list-items{
+  text-decoration: none;
+  list-style: none;
+
+}
